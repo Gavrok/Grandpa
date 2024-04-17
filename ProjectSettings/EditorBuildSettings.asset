@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HomeHub.unity
+    guid: 5ed20b302579edf4bbf7c5357b52a093
+  - enabled: 1
+    path: Assets/Scenes/superMarketLevel.unity
+    guid: 103697837aa8db348bb7a9847ef299c9
+  - enabled: 1
+    path: Assets/Scenes/HomeHubNoIntro.unity
+    guid: b85cc3e884b798f468c6b4240df2d5b2
+  m_configObjects: {}
