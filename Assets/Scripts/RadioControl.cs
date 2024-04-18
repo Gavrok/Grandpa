@@ -237,7 +237,6 @@ public class RadioControl : MonoBehaviour
                 level.Scene.SetActive(true);
 
                 // Example of setting player state based on the active level
-                // You'll need to adjust this to fit your actual gameplay logic
                 if (level.Scene == BoyScene)
                 {
                     characterController.enableState1 = true;
